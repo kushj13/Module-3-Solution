@@ -1,0 +1,23 @@
+body { background-color: #228B22;
+}
+
+#header-nav { background-color: #20B2AA; }
+
+#header-nav h1 { color: black; 
+text-shadow: 1px 1px 1px #222;}
+
+#chicken-container { margin-top: 25px;
+background-color: #913184; 
+height: 1000px;
+padding: 20px;}
+
+#page-heading { margin-top: 25px; }
+
+.navbar-brand a:hover, .navbar-brand a:focus { 
+	text-decoration: none; }
+.nav-item { font-size: 1.5em; }
+.navbar-collapse { background-color: #EDED06 ; }
+
+#menu-items a:hover { font-size: 1.1em; }
+
+.navbar button.navbar-toggler, .navbar .navbar-toggler-icon  { border: 1px solid #913184 ; }
